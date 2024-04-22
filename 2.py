@@ -1,1 +1,1 @@
-print("Quiz-2")
+print("uurchluv.")
